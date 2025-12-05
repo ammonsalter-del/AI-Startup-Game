@@ -4,7 +4,7 @@ An interactive business simulation game where you navigate the challenges of bui
 
 ## 🎮 Play the Game
 
-Simply open `index.html` in a web browser, or play online at: [Your GitHub Pages URL]
+Simply open `index.html` in a web browser, or play online at: https://github.com/ammonsalter-del/AIVenture-Game
 
 ## 📖 About
 
@@ -80,7 +80,7 @@ If you use this game in your research or teaching, please cite:
 
 ```
 Salter, A., Baruffaldi, S., & Bignone, F. (2025). The AI Startup Game. 
-https://github.com/[repository]
+https://github.com/AIVenture-Game
 ```
 
 ## 🛠️ Technical Details
@@ -93,7 +93,7 @@ https://github.com/[repository]
 
 ## 📬 Contact
 
-For questions about the game or the research project, please contact the project team through the University of Bath.
+For questions about the game or the research project, please contact the project team through the Warwick Business School, University of Warwick.
 
 ---
 
