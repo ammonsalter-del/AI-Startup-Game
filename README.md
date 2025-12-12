@@ -2,7 +2,7 @@
 
 An interactive business simulation for teaching entrepreneurship and innovation management. Players run an AI startup through 16 quarters of strategic decisions—navigating funding, hiring, competition, research partnerships, and pivots.
 
-**[▶ Play Now](https://ai-startup-game.github.io)** | **[Download](../../releases)** | **[Teaching Guide](docs/AI_Startup_Game_Teaching_Guide.pdf)**
+**[▶ Play Now](https://ammonsalter-del.github.io/AI-Startup-Game/)** | **[Download](../../releases)** | **[Teaching Guide](docs/AI_Startup_Game_Teaching_Guide.pdf)**
 
 ![The AI Startup Game Screenshot](docs/screenshot.png)
 
