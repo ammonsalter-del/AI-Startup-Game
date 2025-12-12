@@ -44,8 +44,8 @@ No installation, accounts, or internet connection required (for offline play).
 The game is designed for teaching entrepreneurship, innovation management, technology strategy, and related courses.
 
 ### Resources
-- **[Teaching Guide](docs/AI_Startup_Game_Teaching_Guide.pdf)**: Comprehensive guide with lesson plans, discussion questions, and assessment ideas
-- **[Quick Start Guide](docs/Quick_Start_Guide.pdf)**: One-page handout for students
+- **[Teaching Guide]: Comprehensive guide with lesson plans, discussion questions, and assessment ideas
+- **[Quick Start Guide: One-page handout for students
 - **[FAQ](FAQ.md)**: Common questions and troubleshooting
 
 ### Ways to Use
@@ -66,7 +66,7 @@ If you use this game in teaching or research, please cite:
 
 ```
 Salter, A., Baruffaldi, S., & Bignone, F. (2025). The AI Startup Game (Version 1.0) 
-[Computer software]. https://github.com/AI-Startup-Game
+[Computer software]. https://github.com/ammonsalter-del/AI-Startup-Game
 ```
 
 BibTeX:
