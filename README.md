@@ -76,7 +76,7 @@ BibTeX:
   title = {The AI Startup Game},
   version = {1.0},
   year = {2025},
-  url = {https://github.com/AI-Startup-Game}
+  url = (https://github.com/ammonsalter-del/AI-Startup-Game)
 }
 ```
 
