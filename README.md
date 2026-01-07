@@ -18,6 +18,7 @@ Over 3-4 simulated years (12-16 quarters), players must:
 - Respond to competitors racing toward the same goals
 - Build and retain a team while managing culture and morale
 - Make funding decisions that affect control and runway
+- Apply for UK innovation grants to secure non-dilutive funding
 
 The game's timeline reflects reality: the average UK AI unicorn reaches billion-dollar status in just 4.8 years (about 19 quarters).
 
@@ -27,15 +28,17 @@ Most players fail on their first attempt—and that's by design. The game teache
 
 - **8 AI Sectors**: Healthcare, Robotics, Finance, Creative AI, Cybersecurity, Climate Tech, Legal Tech, Education—each with unique challenges
 - **12 Founder Types**: From Academic to Serial Founder to First-Timer, each with different strengths and weaknesses
-- **300+ Unique Events**: Realistic scenarios drawn from actual startup experiences
-- **3 Rival Companies**: AI-controlled competitors that race you to milestones
-- **Multiple Funding Paths**: Bootstrap, angels, accelerators, or venture capital
+- **450+ Unique Events**: Realistic scenarios drawn from actual startup experiences
+- **3 Rival Companies**: AI-controlled competitors that race you to milestones (unique rivals per sector)
+- **Multiple Funding Paths**: Bootstrap, angels, accelerators, venture capital, or UK innovation grants
+- **UK Grant Funding System**: Apply to Innovate UK-style grants with realistic assessor feedback and scoring
 - **Strategic Focus System**: Choose quarterly priorities—Growth, Efficiency, R&D, or Investor Relations
-- **Revenue Mechanics**: Build ARR through different business models (B2B SaaS, Healthcare, Consumer)
+- **Revenue Mechanics**: Build ARR through different business models (B2B SaaS, Healthcare Procurement, Consumer, Research Grants)
 - **Strategic Pivots**: Change direction when competitors get ahead or opportunities emerge
+- **Guided Play Mode**: New players receive coaching tips during their first 4 quarters
 - **UK AI Ecosystem Context**: Learn about the real UK AI landscape with data from DCMS and Tech Nation
 - **Extreme Mode**: For experienced players—hidden stat effects, no advisor hints, 20% less starting cash
-- **Built-in Tutorial**: 5-10 minute introduction to game mechanics
+- **Flexible Tutorial Options**: Quick overview (~3 min) or comprehensive walkthrough (~10 min)
 
 ## Quick Start
 
@@ -66,7 +69,7 @@ The Slingshot is designed for teaching entrepreneurship, innovation management, 
 
 ### Sample Lesson Plan (Single Session)
 1. Brief setup (5 min): Explain most will fail—that's expected
-2. Play (45-60 min): Individual or pairs, assign different sectors
+2. Play (25-35 min): Individual or pairs, assign different sectors
 3. Debrief (30-45 min): What surprised you? What was difficult? Connect to theory
 
 See the Teaching Guide for detailed lesson plans for 1-week, 3-week, and 10-week courses.
