@@ -2,9 +2,7 @@
 
 An interactive business simulation for teaching entrepreneurship and innovation management. Players run an AI startup through 16 quarters of strategic decisions—navigating funding, hiring, competition, research partnerships, and pivots.
 
-**[▶ Play Now (https://ammonsalter-del.github.io/The-Slingshot-Simulation/]** | **[Download](../../releases)** | **[Teaching Guide](docs/Slingshot_Teaching_Guide.pdf)**
-
-![The Slingshot Screenshot](docs/screenshot.png)
+**[▶ Play Now (https://ammonsalter-del.github.io/The-Slingshot-Simulation/]** | 
 
 ## Overview
 
@@ -42,7 +40,7 @@ Most players fail on their first attempt—and that's by design. The game teache
 ## Quick Start
 
 ### To Play
-1. **Online**: Visit [ai-startup-game.github.io](https://ai-startup-game.github.io) and play instantly
+1. **Online**: Visit [https://ammonsalter-del.github.io/The-Slingshot-Simulation/) and play instantly
 2. **Offline**: Download `the_slingshot_ai_startup_simulation.html` from [Releases](../../releases), open in any modern browser
 
 No installation, accounts, or internet connection required (for offline play).
@@ -78,18 +76,18 @@ See the Teaching Guide for additional lessons.
 If you use this game in teaching or research, please cite:
 
 ```
-Salter, A., Baruffaldi, S., & Bignone, F. (2025). The Slingshot: An AI Startup Simulation (Version 1.0) 
-[Computer software]. https://github.com/AI-Startup-Game
+Salter, A., Baruffaldi, S., & Bignone, F. (2026). The Slingshot: An AI Startup Simulation (Version 1.0) 
+[Computer software]. [https://github.com/ammonsalter-del/The-Slingshot-Simulation)
 ```
 
 BibTeX:
 ```bibtex
-@software{salter2025slingshot,
+@software{salter2026slingshot,
   author = {Salter, Ammon and Baruffaldi, Stefano and Bignone, Federico},
   title = {The Slingshot: An AI Startup Simulation},
   version = {1.0},
-  year = {2025},
-  url = {https://github.com/AI-Startup-Game}
+  year = {2026},
+  url = {https://github.com/AI-Startup-Game](https://github.com/ammonsalter-del/The-Slingshot-Simulation}
 }
 ```
 
@@ -138,7 +136,7 @@ There are many exciting directions this game could take. Some possibilities incl
 
 ### How to Contribute
 
-We encourage you to use the [GitHub repository](https://github.com/AI-Startup-Game) for all contributions:
+We encourage you to use the [GitHub repository](https://github.com/ammonsalter-del/The-Slingshot-Simulation) for all contributions:
 
 - **Fork the repository**: Create your own version and adapt it freely for your teaching context
 - **Report bugs**: Use the [Issues](../../issues) tab with the bug report template
