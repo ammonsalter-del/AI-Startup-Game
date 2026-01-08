@@ -171,4 +171,4 @@ Claude (Anthropic), Gemini (Google), ChatGPT & GPT-5 (OpenAI)
 
 ---
 
-© 2025 Ammon Salter, Stefano Baruffaldi, Federico Bignone
+© 2026 Ammon Salter, Stefano Baruffaldi, Federico Bignone
