@@ -6,7 +6,7 @@ An interactive business simulation for teaching entrepreneurship and innovation 
 
 ## Overview
 
-The Slingshot places students in the role of an AI startup founder making real strategic decisions under uncertainty. Set in the UK's thriving AI ecosystem in 2026, players experience what it takes to build a billion-pound company in one of the world's most dynamic startup environments.
+The Slingshot places students in the role of an AI startup founder making real strategic decisions under uncertainty. Set in the UK's thriving AI ecosystem in 2026, players experience what it takes to build a billion-dollar company in one of the world's most dynamic startup environments.
 
 Over 3-4 simulated years (12-16 quarters), players must:
 
