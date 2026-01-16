@@ -71,7 +71,7 @@ The Slingshot is designed for teaching entrepreneurship, innovation management, 
 - **Quick Start Guide** (docs/Quick_Start_Guide.pdf): One-page handout for students
 - **FAQ** (FAQ.md): Common questions and troubleshooting
 
-### Ways to Use
+### Different Ways to Use
 - **Single session** (1-2 hours): Experiential introduction to entrepreneurship concepts
 - **Multi-week module**: Progressive skill building with reflection between sessions
 - **Full course integration**: Tournament formats, written assignments, theory connections
@@ -81,7 +81,7 @@ The Slingshot is designed for teaching entrepreneurship, innovation management, 
 2. Play (25-35 min): Individual or pairs, assign different sectors
 3. Debrief (30-45 min): What surprised you? What was difficult? Connect to theory
 
-See the Teaching Guide for detailed lesson plans for 1-week, 3-week, and 10-week courses.
+See the Teaching Guide for detailed lesson plans for 1-week, 3-week, and 10-week courses. It also offers 16 different options for in-class use to inspire you.
 
 ## Citation
 
