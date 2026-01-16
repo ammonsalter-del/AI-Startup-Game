@@ -88,10 +88,11 @@ No installation, accounts, or internet connection required (for offline play).
 
 The Slingshot is designed for teaching entrepreneurship, innovation management, technology strategy, and related courses.
 
-### Resources
-- **Teaching Guide** (docs/Slingshot_Teaching_Guide.pdf): Comprehensive guide with lesson plans, discussion questions, and assessment ideas
-- **Quick Start Guide** (docs/Quick_Start_Guide.pdf): One-page handout for students
-- **FAQ** (FAQ.md): Common questions and troubleshooting
+### Resources (all available in repository)
+- **Teaching Guide**: Comprehensive guide with lesson plans, discussion questions, and assessment ideas
+- **Quick Start Guide**: One-page handout for students
+- **In-class exercises**: One-page handout for students
+- **FAQ** : Common questions and troubleshooting
 
 ### Different Ways to Use
 - **Single session** (1-2 hours): Experiential introduction to entrepreneurship concepts
