@@ -52,10 +52,10 @@ Through this simulation, students will develop:
 
 - **8 AI Sectors**: Healthcare, Robotics, Finance, Creative AI, Cybersecurity, Climate Tech, Legal Tech, Education—each with unique challenges
 - **12 Founder Types**: From Academic to Serial Founder to First-Timer, each with different strengths and weaknesses
-- **550+ Unique Events**: Realistic scenarios drawn from actual startup experiences
+- **550+ Unique Events**: Realistic scenarios drawn from actual startup experiences and technology venturing research
 - **3 Rival Companies**: AI-controlled competitors that race you to milestones (unique rivals per sector)
 - **Multiple Funding Paths**: Bootstrap, angels, accelerators, venture capital, or UK innovation grants
-- **UK Grant Funding System**: Apply to Innovate UK-style grants with realistic assessor feedback and scoring
+- **Grant Funding System**: Apply to local, regional, national and international grants with realistic assessor feedback and scoring
 - **Strategic Focus System**: Choose quarterly priorities—Growth, Efficiency, R&D, or Investor Relations
 - **Revenue Mechanics**: Build ARR through different business models (B2B SaaS, Healthcare Procurement, Consumer, Research Grants)
 - **Strategic Pivots**: Change direction when competitors get ahead or opportunities emerge
