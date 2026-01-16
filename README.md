@@ -85,24 +85,19 @@ See the Teaching Guide for detailed lesson plans for 1-week, 3-week, and 10-week
 
 ## Citation
 
-If you use this game in teaching or research, please cite:
+If you use The Slingshot in your teaching or research, please cite it as:
 
-```
-Salter, A., Baruffaldi, S., & Bignone, F. (2026). The Slingshot: An AI Startup Simulation (Version 1.2) 
-[Computer software]. [GitHub repository] github.com/ammonsalter-del/The-Slingshot-Simulation/
-```
-
-BibTeX:
+> Salter, A., Baruffaldi, S., & Bignone, F. (2026). *The Slingshot: An AI Startup Simulation* (Version 1.2) [Computer software]. https://github.com/ammonsalter-del/The-Slingshot-Simulation/
+> 
 ```bibtex
 @software{salter2026slingshot,
   author = {Salter, Ammon and Baruffaldi, Stefano and Bignone, Federico},
   title = {The Slingshot: An AI Startup Simulation},
   version = {1.2},
   year = {2026},
-  note = {[GitHub repository](https://github.com/ammonsalter-del/The-Slingshot-Simulation/}
+  url = {https://github.com/ammonsalter-del/The-Slingshot-Simulation/}
 }
 ```
-
 ## License
 
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). See LICENSE file for details.
