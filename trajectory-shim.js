@@ -395,8 +395,15 @@
   };
 
   function getPercentileBand(value, p25, p50, p75) {
-    if (value >= p75) return { band: 'Top 25%', color: '#10b981', pct: 87, tier: 'top' };
-    if (value >= p50) return { band: 'Above median', color: '#6366f1', pct: 62, tier: 'above' };
+    // 2.1.64: with a small or uniform benchmark pool the percentiles collapse
+    // (p25 = p75), and the old >= tests ranked a £0 run as "Top 25%".
+    // With no spread, make no ranking claim.
+    if (!(p75 > p25)) {
+      if (value > p75) return { band: 'Ahead of recorded games so far', color: '#6366f1', pct: 62, tier: 'above' };
+      return { band: 'In line with recorded games so far', color: '#94a3b8', pct: 40, tier: 'below' };
+    }
+    if (value > p75) return { band: 'Top 25%', color: '#10b981', pct: 87, tier: 'top' };
+    if (value > p50) return { band: 'Above median', color: '#6366f1', pct: 62, tier: 'above' };
     if (value >= p25) return { band: 'Below median', color: '#f59e0b', pct: 37, tier: 'below' };
     return { band: 'Bottom 25%', color: '#ef4444', pct: 12, tier: 'bottom' };
   }

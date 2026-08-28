@@ -1,6 +1,6 @@
 # The Slingshot: An AI Startup Simulation
 
-**Version 2** | June 2026
+**Version 2.1** | September 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20749017.svg)](https://doi.org/10.5281/zenodo.20749017)
 
@@ -10,11 +10,9 @@ An interactive, browser-based business simulation for teaching entrepreneurship 
 
 It runs in any modern browser. No installation, no accounts, no server — a single HTML file that also works offline once loaded.
 
-Since launch in January 2026 it has been played by more than 1,900 people in 60 countries. A game takes 25 to 40 minutes, depending on experience.
-
 ## Overview
 
-The Slingshot places students in the role of a first-time AI startup founder making real strategic decisions under uncertainty. Set in the UK's AI ecosystem, players spend limited attention across competing priorities, build a team, raise money, respond to rivals, and race to complete three progressive milestones before the cash or the time runs out. The design builds on the attention-based view of the firm (Ocasio, 1997): attention is the scarce resource, and the central tension is allocating it between building internal capability and engaging the outside world that holds the resources a venture needs.
+The Slingshot places students in the role of a first-time AI startup founder making real strategic decisions under uncertainty. Set in the UK's AI ecosystem, players spend limited attention across competing priorities, build a team, raise money, respond to rivals, and race to complete three progressive milestones before the cash or the time runs out.
 
 Over sixteen quarters (about four years), players must:
 
@@ -28,7 +26,18 @@ Over sixteen quarters (about four years), players must:
 
 Most players fail on their first attempt — and that is by design. The game teaches through experience, failure and replay, and outcomes are deliberately stochastic, so two players who decide similarly can finish very differently.
 
-## What's new in Version 2
+## What's new in Version 2.1
+
+- **Ada, the venture builder:** bring your own idea — Ada turns it into a playable venture in a dozen exchanges and hands you a file the game reads.
+- **Twelve sectors:** four new pathways — food, sport, wellbeing and on-device AI — each with full market depth, pivots and locations.
+- **Rebuilt mini-games:** the investor pitch and demo day are now illustrated scenes with sound, one set in London, one in Manchester.
+- **Schumpeter:** an end-of-game debrief — upload your journey report and reflect on the run with him.
+- **Accessibility:** the game is playable by keyboard and screen reader throughout.
+- **Time-stamped play:** every run ends with a franked, tamper-evident mark on the report — unique run code, time played, pace of decisions. Built for assessment.
+- **More staff:** double the hiring pool, now with international hires, visa fees and UK immigration rules.
+- **More decisions:** the event pool has grown past 590 decisions, with a new set on living with LLMs — providers, outages, agents and the price list.
+
+## What was new in Version 2
 
 - **Market Opportunity Navigator (Where to Play):** a redesigned Market Opportunities system based on Gruber and Tal's *Where to Play* framework — map opportunities by potential and challenge, then decide how far to back each one on the agile-focus dartboard.
 - **Seed mode:** a gentler way in for newcomers — more starting attention and funding, with competitive benchmarking off — alongside the standard Core mode and the harder Extreme mode.
@@ -39,21 +48,17 @@ Most players fail on their first attempt — and that is by design. The game tea
 
 ## For educators
 
-The Slingshot is built for teaching entrepreneurial strategy in nascent industries, technology venturing, innovation management and technology commercialisation, across undergraduate, postgraduate and executive courses. Assessment guidance, class formats and FAQs: https://slingshotsim.org/educators.html
+The Slingshot is built for teaching entrepreneurship, innovation management, strategy and technology commercialisation, across undergraduate, postgraduate and executive courses.
 
 The full **Educators Pack** — companions, a ready-to-teach slide deck, assignments, quizzes, classroom exercises, discussion prompts, sector mini-cases, and two AI assistants — is **not held in this repository**. It is shared with educators on request, free, to keep the educator-only materials (which reveal game mechanics and hold assessment answers) away from students. Request access from **ammon.salter@wbs.ac.uk**.
 
 A public **Player AI Assistant** is open to everyone and answers students' questions during play without revealing the engine.
 
-## The family
-
-The Slingshot is part of a family of free, open-source simulations in innovation and entrepreneurship: [The Disruptor](https://disruptorsim.org), a corporate entrepreneurship and innovation simulation played as Chief Innovation Officer, and [Build, Bin, Boost](https://buildbinboost.org/), where you run a technology company's R&D portfolio as Head of R&D. [The Innovation and Entrepreneurship Playbook](https://ieplaybook.substack.com) follows the whole family.
-
 ## Citation
 
 If you use this software in teaching or research, please cite it using the metadata in `CITATION.cff`:
 
-> Salter, A., Baruffaldi, S., & Bignone, F. (2026). *The Slingshot: An AI Startup Simulation* (Version 2) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20749017
+> Salter, A., Baruffaldi, S., & Bignone, F. (2026). *The Slingshot: An AI Startup Simulation* (Version 2.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20749017
 
 ## Licence
 
