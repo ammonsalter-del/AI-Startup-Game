@@ -72,11 +72,11 @@ The Slingshot is educational software for teaching and learning. All companies, 
 
 **Funding.** Developed as part of the ESRC-funded project "Profiting from Science: The Development and Valuation of Artificial Intelligence New Ventures and Engagement with the Science Base" (Grant Reference: ES/X003949/1).
 
-**Team.** Lead author: Ammon Salter (Warwick Business School, University of Warwick). Co-investigators: Stefano Baruffaldi (Politecnico di Milano) and Federico Bignone (Warwick Business School, University of Warwick).
+**Credits.** The Slingshot was designed, directed and is maintained by Ammon Salter (Warwick Business School). He built it working with AI models, mainly Claude, in a close interaction throughout: he set the design, dictated the content and the educator materials, gave the instructions and tested the results; the models wrote the code and drafted to his direction. No software studio and no programmer was involved. Everything was checked over and approved by him, and he is responsible for it. It came out of the ESRC-funded project Profiting from Science (ES/X003949/1), on which Stefano Baruffaldi (Politecnico di Milano) is co-investigator and Federico Bignone (Warwick Business School) is research fellow. Federico Bignone playtested every version and helped refine the game's systems, and his research for the project on AI ventures and Innovate UK funding shaped the game's treatment of the science base and grant funding. Cite it as Salter, Baruffaldi and Bignone (2026).
 
 **Contributors and betatesters.** Ali Ahmed (Warwick Business School), Paola Criscuolo (Imperial College London), Linus Dahlander (ESMT Berlin), Daniela Defazio (University of Bath), Panos Desyllas (University of Bath), Virgilio Failla (University of Bath), Christos Kolympiris (Warwick Business School), Hila Lifshitz (Warwick Business School), Orietta Marsili (University of Bristol), Hana Milanov (IMD Business School), Rossella Salandra (University of Bath), Giacomo Salter, Suki Salter, Christian Stadler (Warwick Business School), Manos Vasilakis, Philipp Lucas Wähler (Warwick Business School), and students on the Corporate Entrepreneurship module, Masters in Management, Warwick Business School.
 
-**AI development assistants.** Claude (Anthropic), Gemini (Google), ChatGPT & GPT-5 (OpenAI).
+**AI models.** Claude (Anthropic) wrote most of the code and drafted most of the content and the educator materials to Ammon Salter's dictation and direction. OpenAI Codex built the mini-games; GPT-5.5 (OpenAI) and Gemini (Google) helped with debugging and some content; an early prototype was made in Gemini Canvas.
 
 ---
 
