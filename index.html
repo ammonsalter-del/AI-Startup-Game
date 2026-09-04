@@ -23286,6 +23286,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "A London biomedical campus invites us to their seminar series on AI in molecular design.",
         aside: "Regular presence builds relationships. We'd become 'the AI people' on campus.",
         choices: [
@@ -23643,6 +23644,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "Testing reveals our AI model is less accurate for some patient populations—it works well for groups heavily represented in our training data, less well for others. This isn't unusual; it's a known challenge in medical AI. Fixing it requires more diverse data, which means more time and partnerships. But the populations it works well for still need help now.",
         aside: "Perfect fairness in AI is often impossible—you're trading off accuracy for different groups. Waiting for perfection means no one gets helped. Launching with known gaps means some get helped more than others. Both positions have ethical weight.",
         choices: [
@@ -24223,6 +24225,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "A data-sharing MoU with a UK university would give us access to valuable clinical datasets.",
         aside: "Proper governance takes time but builds lasting partnerships. Their data is unique.",
         choices: [
@@ -24949,6 +24952,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "A major pharma company wants to license our AI models. As part of due diligence—the investigation process before any big deal—they want to examine our training data, model architecture, and evaluation methods in detail. If the deal goes through, it's transformative revenue. If it doesn't, they've seen everything.",
         aside: "Due diligence is standard for big deals. But there's always a risk they're really just gathering competitive intelligence. The NDA offers some protection, but proving a breach is almost impossible.",
         choices: [
@@ -25064,6 +25068,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "A ministry of health wants to license our AI for disease prediction. The science would genuinely help patients. But this government restricts press freedom and has used technology for surveillance before. Our contract would be for healthcare only—but once they have the technology, we can't control how it's used or what it's combined with.",
         aside: "Every major tech company faces decisions like this. The healthcare ministry isn't the security ministry—but they're part of the same government. Some argue engagement creates leverage for reform; others say it provides tools and legitimacy.",
         choices: [
@@ -26669,6 +26674,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["quant"],   // 2.1.64 fix: written for this venture
         intro: "A UK investment firm wants a simple screen where their staff can see, at a glance, how much money is at risk each day. Right now they're drowning in spreadsheets and can't easily show regulators what's happening.",
         aside: "When clients can understand our outputs easily, they trust us more. And when regulators can see things clearly, everyone sleeps better.",
         choices: [
@@ -27204,6 +27210,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["dream", "voed", "sorgente"],   // 2.1.64 fix: written for this venture
         intro: "Our app encourages frequent use in ways that might not be healthy. Some users are clearly spending too much time on it. We could add features that remind people to take breaks or limit daily use, but that would deliberately reduce engagement—the opposite of what we usually optimise for.",
         aside: "Tech companies rarely design for less usage. But some are starting to add wellbeing features. It's good for users and increasingly expected.",
         choices: [
@@ -27453,6 +27460,7 @@ const CHAR_EVENTS = {
   marketing: {
     priya: [
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "I've got us in front of the NHS trust's CIO next Tuesday. Budget before year-end, but competitors circling.",
         aside: "I've built this relationship for eight months. This is our shot.",
         choices: [
@@ -27675,6 +27683,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "Royal College conference next month. Invited to present alongside clinicians.",
         aside: "The NHS network is everything. This is where trust gets built.",
         choices: [
@@ -27716,6 +27725,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "The NHS Innovation Accelerator has a slot. Pitch for place on their programme.",
         aside: "The NIA opens doors across the NHS. Worth the effort.",
         choices: [
@@ -29757,6 +29767,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["dream"],   // 2.1.64 fix: written for this venture
         intro: "UK art school wants student programme using our creative AI tools.",
         aside: "Students become professionals. Early adoption becomes habit.",
         choices: [
@@ -29800,6 +29811,7 @@ const CHAR_EVENTS = {
         ],
       },
       {
+        sectors: ["aether"],   // 2.1.64 fix: written for this venture
         intro: "The board wants us to write up our clinical evidence—a proper document explaining what our product does and the research behind it. The question is: do we make it detailed and scientific, or polished and exciting?",
         aside: "Doctors want to see rigorous evidence and honest limitations. Investors want confident success stories. Hard to please both.",
         choices: [
@@ -33985,6 +33997,7 @@ const GENERIC_EVENTS = {
       }
   ,
     {
+      sectors: ["dream"],   // 2.1.64 fix: written for this venture
       intro: "Our next model needs training data, and the best source is a large archive of illustrations, photographs and writing scraped from the open web. Most of it is copyrighted. Some of the creators have been loudly clear about AI companies using their work without permission. Our competitors are almost certainly using it.",
       aside: "The law is unsettled and the lawsuits are still working through the courts. What's legal, what's fair and what's wise may be three different answers.",
       choices: [
@@ -34791,6 +34804,7 @@ const GENERIC_EVENTS = {
       ]
     },
     {
+      sectors: ["aether", "sorgente"],   // 2.1.64 fix: written for this venture
       intro: "A major NHS Trust wants to pilot our solution. Prestige and case study value, but NHS procurement is complex.",
       aside: "NHS validation is gold for UK healthtech. The pilot could take a year to close.",
       choices: [
@@ -37748,6 +37762,7 @@ const FUNDER_EVENTS = {
     // === ACADEMIC ANGEL (DR. MOLLY PRITCHARD) SPECIFIC EVENTS ===
     {
       id: "academic_professorial_lecture",
+      funderOnly: "academicAngel",   // 2.1.64 fix: named funder only
       intro: "Molly invites you to give a guest lecture in her department's seminar series. 'Nothing formal, just share your journey from research to startup.' The audience includes three potential PhD candidates and two professors with relevant grant funding.",
       aside: "Academic seminars are where talent scouts and future collaborators lurk.",
       choices: [
@@ -37758,6 +37773,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "academic_enterprise_committee",
+      funderOnly: "academicAngel",   // 2.1.64 fix: named funder only
       intro: "The university is redeveloping its enterprise strategy and Molly suggests you join the advisory committee. Monthly meetings for a year. 'Great visibility with the tech transfer office and vice-chancellor.'",
       aside: "University committees move slowly. But they control resources and reputation.",
       choices: [
@@ -37768,6 +37784,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "academic_phd_secondment",
+      funderOnly: "academicAngel",   // 2.1.64 fix: named funder only
       intro: "Molly has a PhD student six months from finishing. Excellent work, relevant to your roadmap. She proposes a six-month industry secondment where they work in your office while completing their thesis.",
       aside: "Seconded PhD students bring the latest research with them. They also bring thesis deadlines.",
       choices: [
@@ -37778,6 +37795,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "academic_peer_review",
+      funderOnly: "academicAngel",   // 2.1.64 fix: named funder only
       intro: "A prestigious journal asks Molly to peer review a paper that directly relates to your technology. She mentions it might contain competitive intelligence—but reviewing means staying quiet about it.",
       aside: "Academic ethics are strict. But knowing what's coming in your field is valuable.",
       choices: [
@@ -37790,6 +37808,7 @@ const FUNDER_EVENTS = {
     // === TECH ANGEL (JAMES PARK) SPECIFIC EVENTS ===
     {
       id: "tech_code_review",
+      funderOnly: "techAngel",   // 2.1.64 fix: named funder only
       intro: "James wants to spend a day doing a 'friendly code review.' He built three successful companies. He also has opinions about your architecture that he formed in 2015.",
       aside: "Experienced founders have pattern recognition. Patterns sometimes get outdated.",
       choices: [
@@ -37800,6 +37819,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "tech_founder_intro",
+      funderOnly: "techAngel",   // 2.1.64 fix: named funder only
       intro: "James offers to introduce you to the technical founder of a company he backed that just sold for £200M. 'He's taking a year off, might advise you.' The founder is notoriously difficult but genuinely brilliant.",
       aside: "Brilliant jerks can accelerate your company. They can also derail it.",
       choices: [
@@ -37810,6 +37830,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "tech_conference_badge",
+      funderOnly: "techAngel",   // 2.1.64 fix: named funder only
       intro: "James has a spare VIP badge for a sold-out AI conference. Private dinners, investor breakfasts, demo day access. It's next week. You'd need to cancel two customer calls.",
       aside: "Conference serendipity is real. Customer revenue is also real.",
       choices: [
@@ -37822,6 +37843,7 @@ const FUNDER_EVENTS = {
     // === OPERATOR ANGEL (SARAH CHEN) SPECIFIC EVENTS ===
     {
       id: "operator_process_audit",
+      funderOnly: "operatorAngel",   // 2.1.64 fix: named funder only
       intro: "Sarah offers to run a 'scaling readiness audit.' Two days observing your operations, then a written report. She's seen three companies implode during growth. She's also very direct.",
       aside: "Operational feedback is uncomfortable. Operational disasters are worse.",
       choices: [
@@ -37832,6 +37854,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "operator_founder_burnout",
+      funderOnly: "operatorAngel",   // 2.1.64 fix: named funder only
       intro: "Sarah takes you aside. 'I've seen your calendar. I've seen your face. You're burning out. Take a week off or you'll make a bad decision.' She's managed through three founder burnouts.",
       aside: "The most important operational advice isn't about processes.",
       choices: [
@@ -38023,6 +38046,7 @@ const FUNDER_EVENTS = {
     // === NORTHSTAR PARTNERS SPECIFIC EVENTS ===
     {
       id: "northstar_growth_pressure",
+      funderOnly: "northstarVC",   // 2.1.64 fix: named funder only
       intro: "Northstar's partner calls. 'Your numbers are fine. But fine doesn't build unicorns. We need to see 3x growth next quarter or we're having a different conversation.'",
       aside: "Northstar backed three unicorns last year. They have expectations.",
       choices: [
@@ -38033,6 +38057,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "northstar_ceo_coach",
+      funderOnly: "northstarVC",   // 2.1.64 fix: named funder only
       intro: "Northstar wants to bring in their executive coach. 'All our best founders work with her. It's not optional.' She's intense, expensive, and—according to three portfolio CEOs—transformative.",
       aside: "When Northstar says 'not optional,' they mean it's not optional.",
       choices: [
@@ -38043,6 +38068,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "northstar_board_theatre",
+      funderOnly: "northstarVC",   // 2.1.64 fix: named funder only
       intro: "Northstar's partner calls before the board meeting. 'I'm going to ask some tough questions. Don't take it personally—the other board members need to see us holding you accountable.'",
       aside: "Board dynamics are performance art. Know your role.",
       choices: [
@@ -38055,6 +38081,7 @@ const FUNDER_EVENTS = {
     // === PLURAL CAPITAL SPECIFIC EVENTS ===
     {
       id: "plural_impact_report",
+      funderOnly: "pluralVC",   // 2.1.64 fix: named funder only
       intro: "Plural's quarterly check-in focuses on impact metrics. 'How many jobs created? What's your supplier diversity? We report this to our LPs.' They're not demanding—but they're tracking.",
       aside: "Impact investors mean it. The metrics are real.",
       choices: [
@@ -38065,6 +38092,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "plural_overlooked_market",
+      funderOnly: "pluralVC",   // 2.1.64 fix: named funder only
       intro: "Plural's scout network found an underserved customer segment you hadn't considered. 'Nobody's building for them. Your tech could adapt.' The market is small but uncontested.",
       aside: "Diverse networks see things others miss.",
       choices: [
@@ -38075,6 +38103,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "plural_founder_community",
+      funderOnly: "pluralVC",   // 2.1.64 fix: named funder only
       intro: "Plural invites you to their founder community retreat in the Peak District. Two days of workshops, peer support, and 'real talk about the hard parts.' No investors in the room.",
       aside: "Founder mental health is Plural's quiet mission.",
       choices: [
@@ -38087,6 +38116,7 @@ const FUNDER_EVENTS = {
     // === PEMBERTON PARTNERS SPECIFIC EVENTS ===
     {
       id: "pemberton_ip_review",
+      funderOnly: "pembertonVC",   // 2.1.64 fix: named funder only
       intro: "Pemberton wants their IP specialist to review your patent strategy. 'We've seen companies lose everything because they didn't protect early enough.' It's a week of your product lead's time.",
       aside: "Deep tech lives and dies by IP. Pemberton has seen both.",
       choices: [
@@ -38097,6 +38127,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "pemberton_cambridge_intro",
+      funderOnly: "pembertonVC",   // 2.1.64 fix: named funder only
       intro: "Pemberton's partner is giving a talk at the Cambridge Computer Lab next month. 'Come along. The professor running the ML group is someone you should know.'",
       aside: "Cambridge networks run deep. Pemberton is wired in.",
       choices: [
@@ -38107,6 +38138,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "pemberton_tech_dd",
+      funderOnly: "pembertonVC",   // 2.1.64 fix: named funder only
       intro: "A later-stage investor is doing technical due diligence. Pemberton offers to 'prepare you.' What they mean is: three days of mock technical grilling from their partners.",
       aside: "Pemberton's partners have seen every DD question. Usually from the other side.",
       choices: [
@@ -38117,6 +38149,7 @@ const FUNDER_EVENTS = {
     },
     {
       id: "pemberton_spinout_playbook",
+      funderOnly: "pembertonVC",   // 2.1.64 fix: named funder only
       intro: "Pemberton shares their 'spinout playbook'—a document refined over 20 years of backing university companies. 'The mistakes in here cost our portfolio £50M. Learn from them.'",
       aside: "Institutional knowledge is Pemberton's edge.",
       choices: [
@@ -48809,6 +48842,13 @@ class Game {
     return { event: last.event, poolIdx: last.poolIdx };
   }
 
+  // 2.1.64 fix: used-events key for a generic draw. Events in GENERIC_EVENTS.all are keyed by
+  // their own position, so one shared event cannot fire once under each exec.
+  genericEventKey(domain, i) {
+    const n = (GENERIC_EVENTS[domain] || []).length;
+    return i < n ? `generic-${domain}-${i}` : `generic-all-${i - n}`;
+  }
+
   eventFitsVenture(e) {
     if (!e || !e.sectors) return true;            // untagged = universal
     const vid = (this.venture || this.company)?.id;
@@ -48830,7 +48870,7 @@ class Game {
         if (!this.team[domain]) return;
         const combined = [...(GENERIC_EVENTS[domain] || []), ...(GENERIC_EVENTS.all || [])];
         combined.forEach((e, i) => {
-          if (e.llm && !this.usedEvents.has(`generic-${domain}-${i}`) && this.eventFitsVenture(e)) {
+          if (e.llm && !this.usedEvents.has(this.genericEventKey(domain, i)) && this.eventFitsVenture(e)) {
             cands.push({ domain, e, i });
           }
         });
@@ -48850,7 +48890,7 @@ class Game {
       // later quarters up to Q4 retry. Ordinary draws are otherwise untouched.
       if (llmPick && domain === llmPick.domain) {
         this.currentEvents[domain] = { event: llmPick.e, idx: llmPick.i, poolType: 'generic' };
-        this.usedEvents.add(`generic-${domain}-${llmPick.i}`);
+        this.usedEvents.add(this.genericEventKey(domain, llmPick.i));
         this.llmEventFired = true;
         return;
       }
@@ -48885,7 +48925,8 @@ class Game {
       
       // Find unused events, or reset if all used
       let eventKey = poolType === 'competitive' ? `competitive-${domain}` : poolType === 'generic' ? `generic-${domain}` : exec.id;
-      let available = pool.filter((e, i) => !this.usedEvents.has(`${eventKey}-${i}`) && this.eventFitsVenture(e));
+      const keyFor = (i) => poolType === 'generic' ? this.genericEventKey(domain, i) : `${eventKey}-${i}`;
+      let available = pool.filter((e, i) => !this.usedEvents.has(keyFor(i)) && this.eventFitsVenture(e));
       if (available.length === 0 && poolType === 'competitive') {
         // 2.1.44: competitive events fire at most once per run - the pools are small and
         // name-templated, so recycling them replays the same event wearing a different
@@ -48895,13 +48936,16 @@ class Game {
         pool = [...domainGeneric, ...allGeneric];
         poolType = 'generic';
         eventKey = `generic-${domain}`;
-        available = pool.filter((e, i) => !this.usedEvents.has(`${eventKey}-${i}`) && this.eventFitsVenture(e));
+        available = pool.filter((e, i) => !this.usedEvents.has(keyFor(i)) && this.eventFitsVenture(e));
       }
-      if (available.length === 0) {
-        // Reset used events for this pool
-        pool.forEach((e, i) => this.usedEvents.delete(`${eventKey}-${i}`));
-        available = pool.filter(e => this.eventFitsVenture(e));
+      if (available.length === 0 && poolType === 'char') {
+        // 2.1.64 fix: a spent character pool falls through to the generic draw. Nothing repeats in a run.
+        pool = [...(GENERIC_EVENTS[domain] || []), ...(GENERIC_EVENTS.all || [])];
+        poolType = 'generic';
+        eventKey = `generic-${domain}`;
+        available = pool.filter((e, i) => !this.usedEvents.has(keyFor(i)) && this.eventFitsVenture(e));
       }
+      if (available.length === 0) return;   // 2.1.64 fix: every pool spent; no event for this exec this quarter rather than a repeat
       
       // Pick event with mood-based weighting
       // Low mood = more likely to get negative events
@@ -48921,7 +48965,7 @@ class Game {
       }
       
       this.currentEvents[domain] = { event: selectedEvent, idx: eventIdx, poolType };
-      this.usedEvents.add(`${eventKey}-${eventIdx}`);
+      this.usedEvents.add(keyFor(eventIdx));
     });
     
     // Check for revenue event (can replace marketing event)
@@ -48955,7 +48999,9 @@ class Game {
     // natural draw falls short (funder events are never swapped).
     if ((this.completedMilestones?.length || 0) >= 1) {
       const topAP = ev => Math.max(...(ev.choices || []).map(c => c.ap || 0));
-      const entries = Object.entries(this.currentEvents).filter(([d, o]) => o?.event && o.poolType !== 'funder');
+      // 2.1.64 fix: revenue events are never swapped either; swapping one deleted a character
+      // event's used-key (idx 0) and let that event come round again.
+      const entries = Object.entries(this.currentEvents).filter(([d, o]) => o?.event && o.poolType !== 'funder' && o.poolType !== 'revenue');
       let fiveCount = Object.values(this.currentEvents).filter(o => o?.event && topAP(o.event) >= 5).length;
       const byCeiling = [...entries].sort((a, b) => topAP(a[1].event) - topAP(b[1].event));
       for (const [domain, o] of byCeiling) {
@@ -48965,16 +49011,16 @@ class Game {
         const eventKey = `generic-${domain}`;
         const cands = [];
         pool.forEach((ev, i) => {
-          if (topAP(ev) >= 5 && !this.usedEvents.has(`${eventKey}-${i}`) && this.eventFitsVenture(ev)) cands.push(i);
+          if (topAP(ev) >= 5 && !this.usedEvents.has(this.genericEventKey(domain, i)) && this.eventFitsVenture(ev)) cands.push(i);
         });
         if (cands.length === 0) continue; // pool drained this run; accept the natural draw
         const candIdx = cands[Math.floor(Math.random() * cands.length)];
         const oldKey = o.poolType === 'competitive' ? `competitive-${domain}-${o.idx}` :
-                       o.poolType === 'generic' ? `generic-${domain}-${o.idx}` :
+                       o.poolType === 'generic' ? this.genericEventKey(domain, o.idx) :
                        `${this.team[domain]?.id}-${o.idx}`;
         this.usedEvents.delete(oldKey);
         this.currentEvents[domain] = { event: pool[candIdx], idx: candIdx, poolType: 'generic' };
-        this.usedEvents.add(`${eventKey}-${candIdx}`);
+        this.usedEvents.add(this.genericEventKey(domain, candIdx));
         fiveCount++;
       }
     }
@@ -52959,16 +53005,8 @@ class Game {
       return true;
     });
 
-    // If all revenue events have been used, recycle the pool
-    if (modelEvents.length === 0) {
-      this.usedRevenueEvents.clear();
-      modelEvents = REVENUE_MARKETING_EVENTS.filter(e => {
-        if (e.revenueModel !== model.id) return false;
-        if (e.minMilestone !== undefined && this.completedMilestones.length < e.minMilestone) return false;
-        if (e.minCustomers !== undefined && this.customers.length < e.minCustomers) return false;
-        return true;
-      });
-    }
+    // 2.1.64 fix: no recycling. When every eligible revenue event has been shown, show none
+    // rather than repeat one (before M1 a b2bSaas venture has only one eligible event).
 
     if (modelEvents.length === 0) return null;
     
@@ -80854,6 +80892,9 @@ ${(programme.allowsPartner || programme.requiresPartner) ? `
         tokenBurnDelta: this.tokenBurnDelta,
         tokenShockFired: this.tokenShockFired || false,
         tokenCascadeUnlocked: Array.from(this.tokenCascadeUnlocked || []),
+        usedEvents: Array.from(this.usedEvents || []),
+        usedRevenueEvents: Array.from(this.usedRevenueEvents || []),
+        usedFunderEvents: Array.from(this.usedFunderEvents || []),
         apBonusLocked: this.apBonusLocked ? { ...this.apBonusLocked } : null,
         totalPasses: this.totalPasses,
         fundingStage: this.fundingStage,
@@ -80977,6 +81018,9 @@ ${(programme.allowsPartner || programme.requiresPartner) ? `
         this.ensureTokenSpend(); // derives baseline from the loaded company; Standard, delta 0
       }
       this.renderTokenSpend();
+      this.usedEvents = new Set(s.usedEvents || []);           // 2.1.64 fix: events shown so far survive a reload
+      this.usedRevenueEvents = new Set(s.usedRevenueEvents || []);
+      this.usedFunderEvents = new Set(s.usedFunderEvents || []);
       this.apBonusLocked = s.apBonusLocked || { staff: this.getStaffAPBonus(), token: this.getTokenAPDelta() };
       this.totalPasses = s.totalPasses || 0;
       this.fundingStage = s.fundingStage;
